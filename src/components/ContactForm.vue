@@ -79,7 +79,6 @@
 
 <script>
 import * as yup from "yup";
-import * as yup from "yup";
 import { Form, Field, ErrorMessage } from "vee-validate";
 export default {
   components: {
